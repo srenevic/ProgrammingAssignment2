@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
-## this is a commit test
+## this is a commit test 2
 }
 
 
